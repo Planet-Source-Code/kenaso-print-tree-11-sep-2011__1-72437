@@ -1,0 +1,63 @@
+Count Lines of Code v1.2.117                             10 Sep 2011  09:18 AM
+
+                                PrintMSTree.vbp
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Kens Software\Print_MS_Tree\PrintMSTree.vbp
+
+Module Name:  C:\Kens Software\Print_MS_Tree\Test.frm
+
+                   2  Constant variables
+                   1  API Declare statements
+                   7  Sub routines
+                   1  Functions
+                 175  Miscellaneous lines of code
+                 279  Auto generated lines (Not Included)
+                  23  Blank lines (Not Included)
+                  57  Comment lines (Not Included)
+          ----------
+                 186  Module lines of code
+
+Module Name:  C:\Kens Software\Print_MS_Tree\clsTreePrint.cls
+
+                   7  Constant variables
+                   3  Property Let routines
+                   7  Sub routines
+                   1  Functions
+                 186  Miscellaneous lines of code
+                  15  Auto generated lines (Not Included)
+                  41  Blank lines (Not Included)
+                 177  Comment lines (Not Included)
+          ----------
+                 201  Module lines of code
+
+Module Name:  C:\Kens Software\Print_MS_Tree\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Included)
+                  27  Blank lines (Not Included)
+                 237  Comment lines (Not Included)
+          ----------
+                 152  Module lines of code
+
+          ==========
+                 539  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
